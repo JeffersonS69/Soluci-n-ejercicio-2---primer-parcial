@@ -1,0 +1,10 @@
+C:\Users\Estudiante\source\repos\Parcial1_ejercicio02\Parcial1_ejercicio02\bin\Debug\Parcial1_ejercicio02.exe.config
+C:\Users\Estudiante\source\repos\Parcial1_ejercicio02\Parcial1_ejercicio02\bin\Debug\Parcial1_ejercicio02.exe
+C:\Users\Estudiante\source\repos\Parcial1_ejercicio02\Parcial1_ejercicio02\bin\Debug\Parcial1_ejercicio02.pdb
+C:\Users\Estudiante\source\repos\Parcial1_ejercicio02\Parcial1_ejercicio02\obj\Debug\Parcial1_ejercicio02.csproj.AssemblyReference.cache
+C:\Users\Estudiante\source\repos\Parcial1_ejercicio02\Parcial1_ejercicio02\obj\Debug\Parcial1_ejercicio02.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\Parcial1_ejercicio02\Parcial1_ejercicio02\obj\Debug\Parcial1_ejercicio02.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\Parcial1_ejercicio02\Parcial1_ejercicio02\obj\Debug\Parcial1_ejercicio02.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Parcial1_ejercicio02\Parcial1_ejercicio02\obj\Debug\Parcial1_ejercicio02.exe
+C:\Users\Estudiante\source\repos\Parcial1_ejercicio02\Parcial1_ejercicio02\obj\Debug\Parcial1_ejercicio02.pdb
+C:\Users\Estudiante\source\repos\Parcial1_ejercicio02\Parcial1_ejercicio02\obj\Debug\Parcial1_ejercicio02.frmEjercicio02.resources
